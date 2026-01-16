@@ -1,0 +1,7 @@
+Business Insights from Superstore Analysis
+
+1. Technology category contributes the highest total sales among all categoreis , making it main revenue driver.
+2. The west region shows consistently strong performance across all customer segments.
+3. corporate segment generates higher sales compared to Home Office in most regions .
+4. Furniture Category has lower profit margins compared to Technology and Office Supplies.
+5. Central Region shows relatively weaker performance in both sales and profit, indicating scope for improvement.
