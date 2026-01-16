@@ -26,3 +26,28 @@ To analyze Superstore sales data using Pivot Tables, Pivot Charts, Slicers and d
 - Data aggregation using Pivot Tables
 - Business performance comparison
 - Analytical storytelling
+
+## Dashboard Preview
+
+### Sales by Category
+![Sales by Category](pivot_sales_category.png)
+
+### Region vs Segment
+![Region Segment](pivot_region_segment.png)
+
+### Profit Margin Analysis
+![Profit Margin](pivot_profit_margin.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
